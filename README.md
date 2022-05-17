@@ -1,5 +1,14 @@
 # SimpleAngular13Todo
 
+Download project using git clone or download as zip and extract.
+Inside project directory run `npm install` to install dependencies.
+
+Built using:
+NodeJS version 16.15.0
+npm version 8.5.5
+Angular-cli 13.3.5
+Bootstrap (via npm) 4.4.1
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
