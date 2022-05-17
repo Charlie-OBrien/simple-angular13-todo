@@ -18,6 +18,7 @@
     "importHelpers": true,
     "target": "es2017",
     "module": "es2020",
+    // "noImplicitAny": false,  //Alternative to fix Parameter has an any type error
     "lib": [
       "es2020",
       "dom"
